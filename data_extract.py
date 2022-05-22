@@ -148,7 +148,7 @@ efnet = efn.EfficientNetB3(include_top=False, weights='imagenet', input_tensor=N
 sc_img_path = data_path+'/Sydney_captions/Images/'
 
 '''
-img_names = [img_path + info['filename'] for info in dataset['images']]
+img_names = [img_path + info['filename'] for info in sc_data['images']]
 for img_name in img_names:
     jpg_img = img_name[:-3]+"jpeg"
     tif_img = Image.open(img_name)
@@ -156,7 +156,7 @@ for img_name in img_names:
     out_img.save(jpg_img, "JPEG", quality=90)
 '''
 
-img_names_jpg = [sc_img_path + info['filename'][:-3]+"jpeg" for info in dataset['images']]
+img_names_jpg = [sc_img_path + info['filename'][:-3]+"jpeg" for info in sc_data['images']]
 image_dataset = tf.data.Dataset.from_tensor_slices(img_names_jpg)
 image_dataset = image_dataset.map(preprocess, num_parallel_calls=tf.data.experimental.AUTOTUNE).batch(64)
 
