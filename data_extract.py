@@ -165,7 +165,7 @@ sc_img_feature_path = data_path+'/Sydney_captions/Img_features/'
 
 for img, path in image_dataset:
     batch_features = efnet(img) # shape = (9,9,1408)
-    batch_features = tf.reshape(batch_features, (batch_features.shape[0], -1, batch_features.shape[3])) #shape=(batch,64,2048)
+    batch_features = tf.reshape(batch_features, (batch_features.shape[0], -1, batch_features.shape[3])) #shape=(batch,81,1048)
     for bf, p in zip(batch_features, path):
         img_id = p.numpy().decode('utf-8').split('/')[-1]
         path_of_feature = sc_img_feature_path+img_id+'EFB3'
