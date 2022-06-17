@@ -13,7 +13,7 @@ Store the remote sensing images for three datasets (Sydney captions, UCM caption
 
 
 ## Qualitative Results
-[qual_results_SCAMET.pdf](https://github.com/GauravGajbhiye/SCAMET_RSIC/files/8926960/qual_results_SCAMET.pdf)
+![SCAMET_qualitative_results](https://user-images.githubusercontent.com/34480222/174289021-c3380b16-0238-4f80-a8c8-65342dc66679.png)
 
 
 ## Citation
