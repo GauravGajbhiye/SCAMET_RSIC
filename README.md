@@ -19,4 +19,4 @@ Store the remote sensing images for three datasets (Sydney captions, UCM caption
 <img src="https://user-images.githubusercontent.com/34480222/174290699-822f3c98-ed44-41e6-a1b1-0de36d966507.png" width="600" height="600" />
 
 ## Citation
-Our research work is accepted at "Engineering Appliations of Artificial Intelligence", Internation scientific journal of Elsevier.
+Our research work is accepted at "Engineering Appliations of Artificial Intelligence", International scientific journal of Elsevier.
