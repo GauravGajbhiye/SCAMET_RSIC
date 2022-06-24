@@ -11,7 +11,7 @@ We have designed encode-decoder based CNN-Transformer approach for describing th
 - Matplotlib
 - PIL
 - NLTK
-- Store the remote sensing images for three datasets (Sydney captions, UCM captions and RSICD) from "https://github.com/201528014227051/RSICD_optimal".
+- Store the remote sensing images of three datasets (Sydney captions, UCM captions and RSICD) from "https://github.com/201528014227051/RSICD_optimal".
 
 
 
