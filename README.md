@@ -24,4 +24,15 @@ We have designed encode-decoder based CNN-Transformer approach for describing th
 <img src="https://user-images.githubusercontent.com/34480222/174290699-822f3c98-ed44-41e6-a1b1-0de36d966507.png" width="600" height="600" />
 
 ## Citation
-Our research work is accepted at "Engineering Appliations of Artificial Intelligence", International scientific journal of Elsevier.
+Our research work is published at "Engineering Appliations of Artificial Intelligence", International scientific journal of Elsevier.
+
+Cite it as:
+@article{gajbhiye2022generating,
+  title={Generating the captions for remote sensing images: A spatial-channel attention based memory-guided transformer approach},
+  author={Gajbhiye, Gaurav O and Nandedkar, Abhijeet V},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={114},
+  pages={105076},
+  year={2022},
+  publisher={Elsevier}
+}
