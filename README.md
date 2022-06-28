@@ -26,7 +26,9 @@ We have designed encode-decoder based CNN-Transformer approach for describing th
 ## Citation
 Our research work is published at "Engineering Appliations of Artificial Intelligence", International scientific journal of Elsevier.
 
-Cite it as:
+Cite it as: //
+
+
 @article{gajbhiye2022generating,
   title={Generating the captions for remote sensing images: A spatial-channel attention based memory-guided transformer approach},
   author={Gajbhiye, Gaurav O and Nandedkar, Abhijeet V},
