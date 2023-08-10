@@ -28,12 +28,12 @@ Our research work is published at "Engineering Appliations of Artificial Intelli
 
 **Cite it as:**
 
-@article{gajbhiye2022generating,
-  title={Generating the captions for remote sensing images: A spatial-channel attention based memory-guided transformer approach},
-  author={Gajbhiye, Gaurav O and Nandedkar, Abhijeet V},
-  journal={Engineering Applications of Artificial Intelligence},
-  volume={114},
-  pages={105076},
-  year={2022},
-  publisher={Elsevier}
+@article{gajbhiye2022generating, \
+  title={Generating the captions for remote sensing images: A spatial-channel attention based memory-guided transformer approach}, \
+  author={Gajbhiye, Gaurav O and Nandedkar, Abhijeet V}, \
+  journal={Engineering Applications of Artificial Intelligence}, \
+  volume={114}, \
+  pages={105076}, \
+  year={2022}, \
+  publisher={Elsevier}  \
 }
